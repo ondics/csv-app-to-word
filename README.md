@@ -6,7 +6,7 @@ In Microsoft Word ist VBA (Visual Basic for Applications) eingebaut. Damit könn
 Voraussetzung 
 -------------
 
-Die OUT-App CSV (http://www.lufft-i-box.de/app/view/?appname=opus20) muss auf der SIWIAT App-Box installiert sein.
+Die OUT-App CSV muss auf der SIWIAT App-Box installiert sein.
 
 Schritt 1: Start von VBA in Microsoft Word
 
