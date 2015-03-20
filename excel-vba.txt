@@ -1,0 +1,10 @@
+Sub GetChannels()
+  Const URL$ = "http://<hostname>/ab/index.php/csv/1/api/getchannels"
+  Dim txt As String, i As Long, ret As String
+  With CreateObject("MSXML2.XMLHTTP")
+    .Open "GET", URL, False
+    .send
+    txt = .responseText
+  End With
+  Selection.TypeText (txt)
+End Sub
